@@ -1,4 +1,4 @@
-package me.google.preparation.trees;
+package org.example.trees;
 
 import java.util.ArrayList;
 import java.util.List;
